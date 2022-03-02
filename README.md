@@ -8,10 +8,10 @@ The application is developed using C's sockets.
 
 The implemented protocol to develop the application is detailed [Here](documentazione.pdf) (in Italian) with the entries' format saved in the registries and exchanged from the application.
 
-## Goals
-- Create a communication protocol to allows peers of a ring (P2P) network to comunicate
-- Structure entries' format exchanged between peers and saved on daily registries
-- Create a C application that uses sockets 
+## Goals are:
+- To create a communication protocol to allows peers of a ring (P2P) network to comunicate
+- To structure entries' format exchanged between peers and saved on daily registries
+- To create a C application that uses sockets 
 
 ## Project structure
  - `ds.c`: discovery server
