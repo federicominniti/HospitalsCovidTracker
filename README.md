@@ -8,6 +8,8 @@ The application is developed using C's sockets.
 
 The implemented protocol to develop the application is detailed [Here](documentazione.pdf) (in Italian) with the entries' format saved in the registries and exchanged from the application.
 
+(Repository for the computer networks' project)
+
 ## Goals are:
 - To create a communication protocol to allows peers of a ring (P2P) network to comunicate
 - To structure entries' format exchanged between peers and saved on daily registries
